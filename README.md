@@ -17,7 +17,8 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | End-product **NON-PAYING** users | **YES** | 
 | Product sale | **YES** |
 | --- | --- |
-| Create multiple website/apps for clients | NO | 
+| Create multiple personal websites/apps | NO | 
+| Create multiple websites/apps for clients | NO | 
 | Create SaaS application | NO | 
 | End-product **PAYING** users | NO | 
 | Create HTML/CSS template for sale | NO |
