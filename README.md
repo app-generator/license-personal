@@ -18,10 +18,10 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | --- | --- |
 | Create multiple personal websites/apps - **NON-PAYING** users | NO |  
 | Create multiple websites/apps for clients - **NON-PAYING** users | NO |  
-| Create single SaaS application - **PAYING** users | NO | 
-| Create single End-product - **PAYING** users | NO | 
+| Create single website/app - **PAYING** users | NO | 
+| Create multiple websites/apps - **PAYING** users | NO | 
+| Create single SaaS application | NO | 
 | Create multiple SaaS applications | NO | 
-| Create multiple End-products with **PAYING** users | NO | 
 | Create HTML/CSS template for sale | NO |
 | Create Theme/Template for CMS for sale | NO |
 | Separate sale of our UI Elements | NO |
