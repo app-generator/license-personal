@@ -13,13 +13,11 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | License Type | Personal  |
 | Use for print | **YES** |
 | Product sale | **YES** |
-| Create single personal website/app - **NON-PAYING** users | **YES** | 
-| Create single website/app for client - **NON-PAYING** users | **YES** | 
+| Create single personal website/app | **YES** | 
+| Create single website/app for client | **YES** | 
 | --- | --- |
-| Create multiple personal websites/apps - **NON-PAYING** users | NO |  
-| Create multiple websites/apps for clients - **NON-PAYING** users | NO |  
-| Create single website/app - **PAYING** users | NO | 
-| Create multiple websites/apps - **PAYING** users | NO | 
+| Create multiple personal websites/apps | NO |  
+| Create multiple websites/apps for clients | NO |  
 | Create single SaaS application | NO | 
 | Create multiple SaaS applications | NO | 
 | Create HTML/CSS template for sale | NO |
