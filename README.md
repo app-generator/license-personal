@@ -26,7 +26,7 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 <br />
 
-> For unlimited projects, SaaS or end-projects with **PAYING** users we provide a **[Developer License](https://github.com/app-generator/license-developer)**
+> For unlimited projects or SaaS platforms we provide a **[Developer License](https://github.com/app-generator/license-developer)**.
 
 <br />
 
