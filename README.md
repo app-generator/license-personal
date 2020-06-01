@@ -28,7 +28,13 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 <br />
 
-> **Saas definition** - A method of software delivery and licensing in which software (digital products / physical products /services / API's ) is accessed online via a subscription or one-time payment model, rather than bought and installed on individual computers.
+> **Saas definition** - A method of software delivery and licensing in which software (digital products / physical products / services / API's ) is accessed online via a subscription or one-time payment model, rather than bought and installed on individual computers.
+
+SaaS samples:
+
+- a marketplace with digital products accesible to end-users via a subscription or one-time payment model
+- a marketplace with physical products accesible to end-users via a subscription or one-time payment model
+- a dashboard where users access the centralized information via a subscription or one-time payment model   
 
 <br />
 
