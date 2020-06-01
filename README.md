@@ -28,6 +28,10 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 <br />
 
+> **Saas definition** - A method of software delivery and licensing in which software (digital products / physical products /services / API's ) is accessed online via a subscription or one-time payment model, rather than bought and installed on individual computers.
+
+<br />
+
 > For unlimited projects or SaaS platforms we provide a **[Developer License](https://github.com/app-generator/license-developer)**.
 
 <br />
