@@ -10,7 +10,6 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 | Item | - |
 | ---------------------------------- | --- |
-| License Type | Personal  |
 | Domains | 1 |
 | Team Size | 1 |
 | Tech Support | 6 months |
