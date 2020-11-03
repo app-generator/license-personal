@@ -43,6 +43,7 @@ SaaS samples:
 <br />
 
 > For bigger teams (1 - 5 people) we provide a **[StartUp License](https://github.com/app-generator/license-startup)**.
+
 > For unlimited projects or SaaS platforms we provide a **[Company License](https://github.com/app-generator/license-company)**.
 
 <br />
