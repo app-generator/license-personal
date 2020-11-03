@@ -11,7 +11,8 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | Item | - |
 | ---------------------------------- | --- |
 | License Type | Personal  |
-| Use for print | **YES** |
+| Domains | 1 |
+| Team Size | 1 |
 | Product sale | **YES** |
 | Create single personal website/app | **YES** |
 | Create single website/app for client | **YES** |
@@ -41,7 +42,8 @@ SaaS samples:
 
 <br />
 
-> For unlimited projects or SaaS platforms we provide a **[Developer License](https://github.com/app-generator/license-developer)**.
+> For bigger teams (1 - 5 people) we provide a **[StartUp License](https://github.com/app-generator/license-startup)**.
+> For unlimited projects or SaaS platforms we provide a **[Company License](https://github.com/app-generator/license-company)**.
 
 <br />
 
