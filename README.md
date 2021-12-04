@@ -12,8 +12,8 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | ---------------------------------- | --- |
 | Domains | 1 |
 | Team Size | 1 developer |
-| Email Support < *support@appseed.us* > | 3 months |
-| [Discord](https://discord.gg/fZC6hup) Support - **24/7 LIVE Service** | 3 months |
+| Email Support < *support@appseed.us* > | 6 months |
+| [Discord](https://discord.gg/fZC6hup) Support - **24/7 LIVE Service** | 6 months |
 | Free Updates | 6 months |
 | --- | --- |
 | Product sale | **YES** |
