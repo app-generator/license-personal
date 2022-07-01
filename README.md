@@ -12,8 +12,7 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | ---------------------------------- | --- |
 | Domains | 1 |
 | Team Size | **3 developer** |
-| Support & Updates: | 6 months |
-| [Discord](https://discord.gg/fZC6hup) Support - **24/7 LIVE Service** | 6 months |
+| [Support](https://appseed.us/support/) & Updates: | 6 months |
 | --- | --- |
 | Product sale | **YES** |
 | Create single personal website/app | **YES** |
@@ -41,12 +40,6 @@ SaaS samples:
 - A marketplace with digital products accessible to end-users via a subscription or one-time payment model
 - A marketplace with physical products accessible to end-users via a subscription or one-time payment model
 - A dashboard where users access the centralized information via a subscription or one-time payment model   
-
-<br />
-
-> For bigger teams (1 - 5 people) we provide a **[StartUp License](https://github.com/app-generator/license-startup)**.
-
-> For unlimited projects or SaaS platforms we provide a **[Company License](https://github.com/app-generator/license-company)**.
 
 <br />
 
